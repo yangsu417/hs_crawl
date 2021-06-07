@@ -8,6 +8,4 @@
 https://support.google.com/mail/answer/185833?hl=ko#
 
 
-
-
-크롬브라우저 셀레니움 이용
+\크롬브라우저 셀레니움 이용
